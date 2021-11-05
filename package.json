@@ -1,7 +1,8 @@
-"scripts": {
-   "start": "node index.js"
-}
+
 {
+  "scripts": {
+   "start": "node server.js"
+},
  "name": "main",
  "description": "a really cool app",
  "version": "1.0.0",
