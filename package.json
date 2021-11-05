@@ -1,4 +1,6 @@
-
+"scripts": {
+   "start": "node index.js"
+}
 {
  "name": "main",
  "description": "a really cool app",
@@ -6,8 +8,5 @@
  "engines": {
    "node": "14.16.0",
    "npm":"7.10.0"
-   },
-  "scripts": {
-   "start": "node index.js"
-}
+   }
 }
